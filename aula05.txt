@@ -1,0 +1,11 @@
+O que é o Jenkins:
+Servidor para automatização de tarefas, como build, testes e deploy de aplicações.
+
+Comando para executar o Jenkins: 
+java -jar jenkins.war (Porta padrão: 8080)
+ou
+java -jar jenkins.war --httpPort=9080
+
+Plugins: selecionar plugins instalar
+None
+selecionar plugin do git.
